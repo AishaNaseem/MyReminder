@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSecondary">#E9448aff </color>
+    <color name ="colorSecondaryDark">#E9004c8c</color>
+    <color name="colorPrimaryDark">#E999aa00</color>
+    <color name="colorPrimary">#E9CDDC39</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="selecteditem">#11ffff</color>
+    <color name="colorOrange">#FFFFD180</color>
+    <color name="colorGreen">#E995C605</color>
+    <color name="colorGreenLight">#E9CFEC7B</color>
+    <color name="colorPrimaryLight">#E9F0F4C3</color>
+    <color name ="primaryText">#E9212121</color>
+    <color name ="white">#ffffff</color>
+    <color name ="secondaryText">#E9757575</color>
+
+    <color name ="divider">#E9BDBDBD</color>
+</resources>
